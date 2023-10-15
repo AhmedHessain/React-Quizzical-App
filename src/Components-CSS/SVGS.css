@@ -1,0 +1,13 @@
+.top-right-svg,.bottom-left-svg{
+    width: 297px;
+    height: 235px;
+    position: absolute;
+}
+.top-right-svg{
+    top: 0;
+    right: 0;
+}
+.bottom-left-svg{
+    bottom: 0;
+    left: 0;
+}

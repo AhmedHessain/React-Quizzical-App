@@ -1,0 +1,36 @@
+.intro-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    z-index: 1;
+}
+.intro-section h1{
+    color: #293264;
+    font-family: Karla;
+    font-size: 40px;
+    margin:0;
+}
+.intro-section p{
+    color: #293264;
+    font-size: 20px;
+    font-family: Inter;
+    margin: 0;
+    margin-top: 7px;
+}
+.intro-section button{
+    padding: 16px 45px;
+    border-radius: 15px;
+    background: #4D5B9E;
+    border: none;
+    cursor: pointer;
+    color: #F5F7FB;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.intro-section button:active{
+    box-shadow: inset 2px 2px 3px rgb(37, 32, 32);
+}

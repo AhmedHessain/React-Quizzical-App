@@ -1,0 +1,35 @@
+
+.question-div > p{
+    color: #293264;
+    font-family: Karla;
+    font-size: 25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.answers-buttons-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 13rem;
+    border-bottom: 1rem solid #DBDEF0;;
+    padding-bottom: 15rem;
+}
+.answer-button{
+    padding: 5px 5px;
+    flex-shrink: 0;
+    border-radius: 7.942rem;
+    border: 0.794rem solid #4D5B9E;
+    min-width: 65.922rem;
+    max-width: max-content;
+    min-height: 20.65rem;
+    height: max-content;
+    background-color: white;
+    cursor: pointer;
+    color: #293264;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
