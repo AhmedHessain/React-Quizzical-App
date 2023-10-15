@@ -32,8 +32,8 @@ Quizzical is designed to provide an enjoyable quiz experience. The questions are
 
 ## Usage
 
-1. Start the development server: `npm start`
-2. Open your browser and visit: `http://localhost:3000`
+1. Start the development server: `npm run dev`
+2. Open your browser and visit the localhost provided in terminal
 3. Answer the 5 trivia questions presented to you
 4. After answering all the questions, the quiz result will be displayed
 
