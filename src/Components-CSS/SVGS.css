@@ -1,6 +1,8 @@
 .top-right-svg,.bottom-left-svg{
-    width: 297px;
-    height: 235px;
+    max-width: 297px;
+    max-height: 235px;
+    width: 30vw;
+    height: 30vh;
     position: absolute;
 }
 .top-right-svg{

@@ -1,4 +1,9 @@
 
+.question-div{
+    display: flex;
+    flex-direction: column;
+    max-width: max-content;
+}
 .question-div > p{
     color: #293264;
     font-family: Karla;
@@ -20,7 +25,7 @@
     border-radius: 7.942rem;
     border: 0.794rem solid #4D5B9E;
     min-width: 65.922rem;
-    max-width: max-content;
+    max-width: 100%;
     min-height: 20.65rem;
     height: max-content;
     background-color: white;

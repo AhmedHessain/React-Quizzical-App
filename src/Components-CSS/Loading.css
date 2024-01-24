@@ -3,6 +3,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position:relative;
+    z-index: 1;
 }
 .rocket-loading-container > p{
     font-family: Inter;
