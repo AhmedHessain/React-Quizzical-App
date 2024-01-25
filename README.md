@@ -24,7 +24,7 @@ Quizzical is designed to provide an enjoyable quiz experience. The questions are
 - Provides immediate feedback on correct and incorrect answers
 - Displays the user's quiz result at the end
 
-##Deployment
+## Deployment
 https://ahmedhessain.github.io/React-Quizzical-App/
 
 ## Installation
