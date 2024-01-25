@@ -3,9 +3,9 @@
 Quizzical is a quiz website where users can answer trivia questions sourced from a Trivia API. After answering 5 questions, the answers are corrected, and the user's result is displayed.
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
+- [Deployment](#deployment)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,6 +23,9 @@ Quizzical is designed to provide an enjoyable quiz experience. The questions are
 - Allows users to answer 5 questions
 - Provides immediate feedback on correct and incorrect answers
 - Displays the user's quiz result at the end
+
+##Deployment
+https://ahmedhessain.github.io/React-Quizzical-App/
 
 ## Installation
 
